@@ -1,0 +1,47 @@
+EJERCICIO 2 :
+
+construye una aplicación que cuando ingreses deberá pedir ingresar algunos datos
+
+luego de eso podré elegir una categoría de preguntas y a continuación, mostrará de manera aleatoria preguntas que se encuentran en un banco de preguntas con 5 simples respuestas, pero solo una es la correcta
+
+debe pedirme responder 20 preguntas, y cuando termine la ultima, debe entregarme un mensaje de felicitaciones y agregarme al ranking de usuarios que han terminado el juego de trivia
+
+a demás debe mostrarme el tiempo que me tomó terminar esta trivia
+
+-----------------------------------------------------------------------------------------------------
+construye una aplicación que cuando ingreses deberá pedir ingresar algunos datos
+
+Ingresa tu nombre: 
+
+Ingresa tu edad:
+
+Ingresa tu correo: 
+
+Ingresa tu contraseña:
+
+-----------------------------------------------------------------------------------------------------
+
+luego de eso podré elegir una categoría de preguntas y a continuación, mostrará de manera aleatoria preguntas que se encuentran en un banco de preguntas con 5 simples respuestas, pero solo una es la correcta
+
+Cine - 10 preguntas
+
+Deporte - 10 preguntas
+
+Eventos Históricos - 10 preguntas
+
+Ciencia - 10 preguntas
+
+Geografía - 10 preguntas
+
+Cultura General - 10 preguntas
+
+Entretenimiento - 10 preguntas
+
+Arte - 10 preguntas
+
+Tecnología - 10 preguntas
+
+Astronomía - 10 preguntas
+
+
+

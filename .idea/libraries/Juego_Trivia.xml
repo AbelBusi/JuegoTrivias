@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Juego_Trivia">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Juego_Trivia.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
